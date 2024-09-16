@@ -37,7 +37,7 @@ Or install a specific version:
 
 Or install the latest head version:
 
-    $ cordova plugin add https://github.com/martine-dowden/cordova-plugin-background-mode.git
+    $ cordova plugin add https://github.com//Andromeda-Galactic-Solutions/cordova-plugin-background-mode.git
 
 Or install from local source:
 
